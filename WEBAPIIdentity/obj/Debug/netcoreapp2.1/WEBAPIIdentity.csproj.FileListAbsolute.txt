@@ -1,0 +1,13 @@
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\bin\Debug\netcoreapp2.1\WEBAPIIdentity.deps.json
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\bin\Debug\netcoreapp2.1\WEBAPIIdentity.runtimeconfig.json
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\bin\Debug\netcoreapp2.1\WEBAPIIdentity.runtimeconfig.dev.json
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\bin\Debug\netcoreapp2.1\WEBAPIIdentity.dll
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\bin\Debug\netcoreapp2.1\WEBAPIIdentity.pdb
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\obj\Debug\netcoreapp2.1\WEBAPIIdentity.csproj.CoreCompileInputs.cache
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\obj\Debug\netcoreapp2.1\WEBAPIIdentity.RazorAssemblyInfo.cache
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\obj\Debug\netcoreapp2.1\WEBAPIIdentity.RazorAssemblyInfo.cs
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\obj\Debug\netcoreapp2.1\WEBAPIIdentity.AssemblyInfoInputs.cache
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\obj\Debug\netcoreapp2.1\WEBAPIIdentity.AssemblyInfo.cs
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\obj\Debug\netcoreapp2.1\WEBAPIIdentity.RazorTargetAssemblyInfo.cache
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\obj\Debug\netcoreapp2.1\WEBAPIIdentity.dll
+C:\Users\v-ridarw\source\repos\WEBAPIIdentity\WEBAPIIdentity\obj\Debug\netcoreapp2.1\WEBAPIIdentity.pdb
